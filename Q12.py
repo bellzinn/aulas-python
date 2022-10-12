@@ -5,7 +5,7 @@
 cont = ''
 
 while cont != 's': #loop do progama
- num = input('bem vindo ao progama de analise,digite a seguir um numero a ser analizado ').split(',')
- print(num[1])
+ num = input('bem vindo ao progama de analise,digite a seguir um numero a ser analizado: ').split(',')
+ print('a parte inteira desse numero dps da virgula é: ',num[1])
  cont = input('analise encerrada,se quiser realizar outra analise,digite quaquer outra tecla,se quiser encerrar digite S ') #condiçaõ para o fim do progama
 print('****progama encerrado****') #fim
