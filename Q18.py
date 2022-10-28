@@ -4,6 +4,7 @@ from configparser import Interpolation
 import numpy as np
 
 cont = ''
+
 while cont != 's': #loop do progama
  lista = [] 
  quant = int(input('bem vindo ao progama de analise,digite a seguir quantos numeros irão compor a sua lista para comecar a analise '))
