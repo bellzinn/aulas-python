@@ -1,6 +1,6 @@
 #Faça um programa, com uma função que calcule a média de uma lista.
 
-#inicio
+#inicio:
 
 cont = ''
 import statistics#biblioteca do python
